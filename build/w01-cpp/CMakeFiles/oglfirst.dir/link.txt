@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/oglfirst.dir/oglfirst.cpp.o  -o oglfirst  -L/Users/daze/Desktop/cmake/build/w01-cpp -framework GLUT -framework Cocoa -framework AGL -framework OpenGL -lm 

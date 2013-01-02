@@ -1,0 +1,6 @@
+/Users/daze/Desktop/cmake/build/w01-cpp/CMakeFiles/cdemo.dir
+/Users/daze/Desktop/cmake/build/w01-cpp/CMakeFiles/geometry.dir
+/Users/daze/Desktop/cmake/build/CMakeFiles/main.dir
+/Users/daze/Desktop/cmake/build/w01-cpp/CMakeFiles/oglfirst.dir
+/Users/daze/Desktop/cmake/build/w01-cpp/CMakeFiles/pointers.dir
+/Users/daze/Desktop/cmake/build/w01-cpp/CMakeFiles/test_geometry.dir

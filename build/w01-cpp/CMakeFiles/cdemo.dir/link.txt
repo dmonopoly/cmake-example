@@ -1,0 +1,1 @@
+/usr/bin/gcc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cdemo.dir/cdemo.c.o  -o cdemo  -L/Users/daze/Desktop/cmake/build/w01-cpp -lm 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/daze/Desktop/cmake/w01-cpp/geometry.cpp
+geometry.h
+/Users/daze/Desktop/cmake/w01-cpp/geometry.h
+
+/Users/daze/Desktop/cmake/w01-cpp/geometry.h
+OpenGL/gl.h
+-
+
